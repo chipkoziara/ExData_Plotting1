@@ -1,3 +1,6 @@
+## How to use these scripts
+The read_hh_data.R script reads in the dataset to the working directory and must be run before any of the plot*.R scripts that generate the plots and PNGs.
+
 ## Introduction
 
 This assignment uses data from
